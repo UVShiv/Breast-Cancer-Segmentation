@@ -4,7 +4,6 @@
 This repository contains the code for the Breast Cancer segmentation using UNET architecture in TensorFlow 2.0 framework.
 
 # Overview
-- Architecture
 - Results
 
 
