@@ -7,12 +7,7 @@ This repository contains the code for the brain tumor segmentation using UNET ar
 - Architecture
 - Results
 
-# Architecture
-The block diagram of the UNET architecture taken from the original paper.
 
-| ![U-Net Architecture](img/u-net-architecture.png) |
-| :--: |
-| *U-Net Architecture* |
 
 # Results
 The images below contains:
