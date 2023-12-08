@@ -51,7 +51,7 @@ if __name__ == "__main__":
         model = tf.keras.models.load_model(os.path.join("files", "model.h5"))
 
     """ Dataset """
-    dataset_path = "/media/nikhil/Seagate Backup Plus Drive/ML_DATASET/brain_tumor_dataset/data"
+    dataset_path = "/media/nikhil/Seagate Backup Plus Drive/ML_DATASET/breast_cancer_dataset/data"
     (train_x, train_y), (valid_x, valid_y), (test_x, test_y) = load_dataset(dataset_path)
 
     """ Prediction and Evaluation """
