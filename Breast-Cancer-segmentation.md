@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation using UNET
+# Breast Tumor Segmentation using UNET
 
 # UNET
 This repository contains the code for the brain tumor segmentation using UNET architecture in TensorFlow 2.0 framework.
